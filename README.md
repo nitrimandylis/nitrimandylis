@@ -14,6 +14,7 @@ I’m on a mission to blend the logic of code with the magic of business — bec
 - SwiftUI – for apps with ✨aesthetic✨  
 - HTML – because web stuff matters too
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitrimandylis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 ---
 
 ## 🛠️ What I'm Working On
