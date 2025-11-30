@@ -1,44 +1,20 @@
-# Hey there, I'm Nick Trim!
+# Hey, I'm Nick 👋
 
-🎓 I'm a high school student who loves programming 
+**IB Student | AI Enthusiast | Aspiring Entrepreneur**
 
----
-
-## 💡 What I'm All About
-
-🧠 **Future Computer Scientist + Entrepreneur in Training**  
-I’m on a mission to blend the logic of code with the magic of business — because solving real-world problems shouldn’t just be functional, it should also be *profitable*.
-
-🐍 **Languages I Speak (besides human)**  
-- Python – for bots, scripts, and big-brained stuff  
-- SwiftUI – for apps with ✨aesthetic✨  
-- HTML – because web stuff matters too
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitrimandylis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+Building at the intersection of code and commerce — because the best solutions don't just work, they scale.
 
 ---
 
-## 🛠️ What I'm Working On
+## 🚀 What I Do
 
-Right now?  
-- Building cool things.  
-- Learning *even cooler* things.  
-- Dreaming of one day getting paid good.
+I'm an IBDP student passionate about **AI**, **software development**, and **entrepreneurship**. Currently exploring how large language models can solve real problems while learning to build products people actually want to use.
 
----
-
-## 🌱 Currently Learning
-
-- Diving deeper into web design
-- Playing around with backend and CLI stuff  
-- Trying to make sense of how businesses *actually* work  
-- Probably watching a YouTube tutorial at 2AM
+### 🛠️ Tech Stack
+- **Languages:** Python, Swift, JavaScript, HTML/CSS
+- **AI/ML:** PyTorch, Hugging Face Transformers, LLM fine-tuning, Gemini API
+- **Tools:** SwiftUI, CLI workflows, Git/GitHub, Zed, Ghostty, macOS automation
 
 ---
 
-## 🧃 Fun Facts
-
-- I think dark mode should be the default for everything.  
-- I use way too many apps.  
-- My favorite debugging method? Fresh Install.
-- I don't and will not learn how to use git correctly
-
+*"Dark mode should be mandatory. Fresh installs solve everything. Git is a mystery I refuse to solve."*
