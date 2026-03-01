@@ -46,13 +46,24 @@ useful or genuinely interesting — ideally both.
 
 ## Setup
 
-| | |
-|---|---|
-| **Machine** | MacBook Pro M3 Pro |
-| **OS** | macOS |
-| **Terminal** | Ghostty |
-| **Editors** | Zed · VS Code |
-| **Browser** | Helium |
-| **Theme** | Nord / Catppuccin |
-|**AI Agent**| Perplexity |
-|**Package Manager**| Homebrew |
+<table align="center">
+  <tr>
+    <td align="center">
+      <table>
+        <tr><td><b>Machine</b></td><td>MacBook Pro M3 Pro</td></tr>
+        <tr><td><b>OS</b></td><td>macOS</td></tr>
+        <tr><td><b>Terminal</b></td><td>Ghostty</td></tr>
+        <tr><td><b>Editors</b></td><td>Zed · VS Code</td></tr>
+        <tr><td><b>Browser</b></td><td>Helium</td></tr>
+        <tr><td><b>Theme</b></td><td>Nord / Catppuccin</td></tr>
+        <tr><td><b>AI Agent</b></td><td>Perplexity</td></tr>
+        <tr><td><b>Package Manager</b></td><td>Homebrew</td></tr>
+      </table>
+    </td>
+    <td align="center">
+      <img src="fastfetch.png" alt="fastfetch" width="600"/>
+    </td>
+  </tr>
+</table>
+
+
