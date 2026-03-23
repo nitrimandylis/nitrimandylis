@@ -56,7 +56,7 @@ useful or genuinely interesting — ideally both.
         <tr><td><b>Editors</b></td><td>Zed · VS Code</td></tr>
         <tr><td><b>Browser</b></td><td>Helium</td></tr>
         <tr><td><b>Theme</b></td><td>Nord / Catppuccin</td></tr>
-        <tr><td><b>AI Agent</b></td><td>Perplexity</td></tr>
+        <tr><td><b>AI Agent</b></td><td>Claude Code</td></tr>
         <tr><td><b>Package Manager</b></td><td>Homebrew</td></tr>
       </table>
     </td>
