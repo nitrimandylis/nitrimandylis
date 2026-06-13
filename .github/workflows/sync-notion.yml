@@ -1,0 +1,46 @@
+name: Sync GitHub Repos to Notion
+
+on:
+  schedule:
+    - cron: '0 8 * * *'    # daily at 8am UTC — mechanical sync
+    - cron: '0 8 * * 0'    # sundays at 8am UTC — includes Claude reclassification
+  workflow_dispatch:
+    inputs:
+      reclassify:
+        description: 'Run Claude classification on existing repos'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_USERNAME: nitrimandylis
+          # Sunday = day 0; workflow_dispatch can also set this to 'true'
+          RECLASSIFY: >-
+            ${{
+              github.event_name == 'workflow_dispatch' && inputs.reclassify == 'true'
+              || github.event_name == 'schedule' && startsWith(github.event.schedule, '0 8 * * 0')
+            }}
+        run: python sync.py
