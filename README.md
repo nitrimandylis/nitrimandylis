@@ -14,10 +14,10 @@
 
 ```console
 ❯ fastfetch
- languages   python · typescript · swift
- stack       next.js · bun · flask · vercel
- focus       ai tools · web apps · terminal toys
- status      starts a repo every week, ships most of them.
+ languages:  python · typescript · swift
+ stack:      next.js · bun · flask · vercel
+ focus:      ai tools · web apps · terminal toys
+ status:     starts a repo every week, ships most of them.
 
 ❯ dt list
  wm:         yabai
