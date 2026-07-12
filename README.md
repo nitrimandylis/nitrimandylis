@@ -20,11 +20,11 @@
  status      starts a repo every week, ships most of them.
 
 ❯ dt list
- wm          yabai
- terminal    ghostty
- shell       zsh
- editor      zed
- browser     zen
+ wm:         yabai
+ terminal:   ghostty
+ shell:      zsh
+ editor:     zed
+ browser:    zen
 
 ❯ juke
  ♪  WASTED — RagerClub
