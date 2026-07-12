@@ -27,9 +27,9 @@
  browser     zen
 
 ❯ juke
- ♪  batman: the animated series ost — shirley walker
- ♪  jeff guo — claude's plan
- spun through juke, without leaving the terminal
+ ♪  WASTED — RagerClub
+ ♪  R U Mine? - Arctic Monkeys
+ ♪  Born to Feel - Gumshoe
 
 ❯ seal
 🦭
