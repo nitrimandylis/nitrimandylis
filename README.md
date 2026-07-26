@@ -8,8 +8,6 @@
 ![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4e749e?style=flat-square&labelColor=122031)
 ![git](https://img.shields.io/badge/git-a_mystery_I_refuse_to_solve-e85a9c?style=flat-square&labelColor=122031)
 ![side projects](https://img.shields.io/badge/side_projects-started_at_1am-e85a9c?style=flat-square&labelColor=122031)
-
-<img src="rice.png" width="100%"/>
 </div>
 
 ```console
