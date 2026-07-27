@@ -1,4 +1,4 @@
-# nick trimandylis
+# nick trimandylis 🦭
 
 ib student in athens, cs hl, building tools i actually use, mostly for macos and mostly at 1am
 
@@ -21,9 +21,7 @@ ib student in athens, cs hl, building tools i actually use, mostly for macos and
 - **[apex](https://apex-formula1.vercel.app)** an f1 dashboard with real standings and replayable telemetry from jolpica and openf1
 - **[llm-mafia](https://llm-mafia.vercel.app/)** a game of mafia played entirely by language models, in python
 
-i start a repo most weeks and finish more of them than you would expect
-
-![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4a3a30?style=flat-square&labelColor=efe4d5)
-![free time](https://img.shields.io/badge/free_time-enjoyed_🥱-4a3a30?style=flat-square&labelColor=efe4d5)
+![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4a3a30?style=flat-square&labelColor=d9c9b0)
+![free time](https://img.shields.io/badge/free_time-enjoyed_🥱-4a3a30?style=flat-square&labelColor=d9c9b0)
 
 <sub>nikolas.trim8@gmail.com</sub>
