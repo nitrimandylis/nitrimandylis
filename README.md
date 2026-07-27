@@ -1,36 +1,29 @@
 # nick trimandylis
 
-<div align="center">
+ib student in athens, cs hl, building tools i actually use, mostly for macos and mostly at 1am
 
-### _building things that are either useful or interesting, ideally both_
+### things i built for other people
 
-![free time](https://img.shields.io/badge/free_time-enjoyed_🥱-e85a9c?style=flat-square&labelColor=122031)
-![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4e749e?style=flat-square&labelColor=122031)
-![git](https://img.shields.io/badge/git-a_mystery_I_refuse_to_solve-e85a9c?style=flat-square&labelColor=122031)
-![side projects](https://img.shields.io/badge/side_projects-started_at_1am-e85a9c?style=flat-square&labelColor=122031)
-</div>
+- **[tokenpilot](https://tokenpilot-llm.vercel.app)** llm cost analysis for anyone paying anthropic or openai bills
+- **[ib news](https://ib-news-site.vercel.app)** a school newspaper site with a cms so the team could publish without me
+- **[kizuna](https://kizuna-initiative.vercel.app)** the public platform for a volunteer group i co-founded
 
-```console
-❯ fastfetch
- languages:  python · typescript · swift
- stack:      next.js · bun · flask · vercel
- focus:      ai tools · web apps · terminal toys
- status:     starts a repo every week, ships most of them.
+### things i use every day
 
-❯ dt list
- wm:         yabai
- terminal:   ghostty
- shell:      zsh
- editor:     zed
- browser:    zen
+- **[swatch](https://github.com/nitrimandylis/swatch)** one palette, twelve macos app configs, written from a single source
+- **[cine](https://github.com/nitrimandylis/cine)** athens showtimes as a poster wall in the terminal, and a streaming tab
+- **[dovetail](https://github.com/nitrimandylis/dovetail)** finds and snapshots my macos configs into a git repo, nothing symlinked
+- **[pm-dashboard](https://github.com/nitrimandylis/pm-dashboard)** mission control for the ib diploma, notion as the source of truth
 
-❯ juke
- ♪  WASTED — RagerClub
- ♪  R U Mine? - Arctic Monkeys
- ♪  Born to Feel - Gumshoe
+### things i built to find out if i could
 
-❯ seal
-🦭
-```
+- **[portfolio](https://nitrimandylis.github.io/portfolio/)** my portfolio, disguised as an operating system that boots, breaks and reboots
+- **[apex](https://apex-formula1.vercel.app)** an f1 dashboard with real standings and replayable telemetry from jolpica and openf1
+- **[llm-mafia](https://llm-mafia.vercel.app/)** a game of mafia played entirely by language models, in python
 
-<sub>↑ `dt` and `juke` are mine — [**dovetail**](https://github.com/nitrimandylis/dovetail) finds, backs up and edits my configs · [**jukebox**](https://github.com/nitrimandylis/jukebox) plays Apple Music, both from the terminal.</sub>
+i start a repo most weeks and finish more of them than you would expect
+
+![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4a3a30?style=flat-square&labelColor=efe4d5)
+![free time](https://img.shields.io/badge/free_time-enjoyed_🥱-4a3a30?style=flat-square&labelColor=efe4d5)
+
+<sub>nikolas.trim8@gmail.com</sub>
