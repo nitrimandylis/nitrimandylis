@@ -13,6 +13,7 @@ ib student in athens, cs hl, building tools i actually use, mostly for macos and
 - **[swatch](https://github.com/nitrimandylis/swatch)** one palette, twelve macos app configs, written from a single source
 - **[cine](https://github.com/nitrimandylis/cine)** athens showtimes as a poster wall in the terminal, and a streaming tab
 - **[dovetail](https://github.com/nitrimandylis/dovetail)** finds and snapshots my macos configs into a git repo, nothing symlinked
+- **[bacpack](https://github.com/nitrimandylis/bacpack)** reverse-engineered cli allowing agents to access managebac
 - **[pm-dashboard](https://github.com/nitrimandylis/pm-dashboard)** mission control for the ib diploma, notion as the source of truth
 
 ### things i built to find out if i could
