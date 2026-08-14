@@ -18,11 +18,11 @@ ib student in athens, cs hl, building tools i actually use, mostly for macos and
 
 ### things i built to find out if i could
 
-- **[portfolio](https://nitrimandylis.github.io/portfolio/)** my portfolio, disguised as an operating system that boots, breaks and reboots
+- **[loosethreads](https://loosethreads-gossip.vercel.app)** an infinite detective board where anonymous gossip gets pinned and connected
 - **[apex](https://apex-formula1.vercel.app)** an f1 dashboard with real standings and replayable telemetry from jolpica and openf1
 - **[llm-mafia](https://llm-mafia.vercel.app/)** a game of mafia played entirely by language models, in python
 - **[agent-wrapped](https://github.com/nitrimandylis/agent-wrapped)** a month of claude code transcripts scored and rendered as a card, offline
-- **[sealfetch](https://github.com/nitrimandylis/sealfetch)** matching mac and iphone wallpapers that report on their own working conditions
+- **[clawdarium](https://nitrimandylis.github.io/clawdarium/)** a pixel animation engine, and a live tank where every animation is a crab
 
 ![dark mode](https://img.shields.io/badge/dark_mode-mandatory-4a3a30?style=flat-square&labelColor=d9c9b0)
 ![free time](https://img.shields.io/badge/free_time-enjoyed_🥱-4a3a30?style=flat-square&labelColor=d9c9b0)
